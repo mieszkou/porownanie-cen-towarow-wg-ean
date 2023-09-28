@@ -28,7 +28,6 @@ W `2` wierszu w kolumnach od `C` do `Z` arkusza `Porównanie` wpisujemy nazwę a
 
 ### Szukamy najlepszej ceny 😀
 
-
 W arkusz `Porównanie` w kolumnie `Kod` wpisujemy/wklajamy kolejne kody, które nas intersują. Są one szukane w wybranych arkuszach z danymi. Najnisza cena jest podświetlana.
 
 ![Przykład](assets/test.gif)
