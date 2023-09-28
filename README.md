@@ -2,6 +2,8 @@
 
 Plik xlsx pozwala na porównanie cen przypisanych do kodów (EAN, krótkie, itp).
 
+# 📁 [Pobierz plik *.xlsx](https://github.com/mieszkou/porownanie-cen-towarow-wg-ean/raw/master/Por%C3%B3wnanie_cen_towar%C3%B3w_wg_EAN.xlsx)
+
 ![Działanie](assets/dzialanie.gif)
 
 ## Sposób użycia
